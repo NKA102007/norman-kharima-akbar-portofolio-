@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
 @import "tailwindcss";
 
 /* menambahkan warna primery dan secondary */
@@ -6,4 +7,5 @@
   --color-biru-muda: #38bdf8;
   --color-biru-pucat: #212538;
   --color-ungu: #1b0f2c;
+  --font-jet: "JetBrains Mono", monospace;
 }
